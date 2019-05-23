@@ -5,7 +5,7 @@ Visual studio code plugin containing Bootstrap 4, Font awesome 5 & materializecs
 
 ## Features
 
-Feel free to let me know what else you want added via the [issues](https://github.com/rushikeshmore/cdnSnipptes)
+**Feel free to let me know what else you want added via the [issues](https://github.com/rushikeshmore/cdnSnippets)**
 
 For example if there is an another web library cdn want to added in the extension.
 
@@ -18,12 +18,18 @@ For example if there is an another web library cdn want to added in the extensio
 
 Trigger | Description
 --- | ---
- **!bootstrap-cdn** | For Bootstrap CDN
- **!fontawesome-cdn** | For FontAwesome CDN
- **!materialize-cdn** | For materializecss CDN
- **!jquery-cdn** | For jquery CDN
- **!mdl-cdn** | For Material Design Lite CDN
- **!googlefonts-cdn** | For Google Fonts CDN
+ **!animejs-cdn** | JavaScript animation engine cdn
+ **!animatecss-cdn** | CSS animations cdn
+ **!chartjs-cdn** | Engaging HTML5 based JavaScript chart cdn
+ **!ionic-cdn** | Ionic framwork cdn
+ **!reactjs-cdn** |  production versions of React cdn
+ **!veujs-cdn** |  Minified and optimized of Vue js cdn
+ **!bootstrap-cdn** | Bootstrap CDN
+ **!fontawesome-cdn** | FontAwesome CDN
+ **!materialize-cdn** | materializecss CDN
+ **!jquery-cdn** | jquery CDN
+ **!mdl-cdn** | Material Design Lite CDN
+ **!googlefonts-cdn** | Google Fonts CDN
 
 ## Installation (in 3 easy steps)
 
@@ -36,17 +42,18 @@ Trigger | Description
 
 ## Release Notes
 
-This is initial version of cdnSnipptes Extensions. In next version we provide more cdn for  increase your productivity.
+This is New version of cdnSnipptes Extensions. In next version we provide more cdn for **increase your productivity.**
 
-### 1.0.0
+### 2.0.0
 
-Initial release of cdnSnipptes
+ New release of [codeSnippets](https://github.com/rushikeshmore) with new CDN's
+
 
 -----------------------------------------------------------------------------------------------------------
 
 
 ### For more information
 
-* [Feel free to let me know what else you include  in cdnsnipptes](https://github.com/rushikeshmore/cdnSnipptes)
+* [Feel free to let me know what else you include  in cdnsnipptes](https://github.com/rushikeshmore/cdnSnippets)
 
 **Enjoy!**
