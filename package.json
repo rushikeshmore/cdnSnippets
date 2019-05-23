@@ -1,12 +1,12 @@
 {
     "name": "cdnsnippets",
     "displayName": "cdnSnippets",
-    "description": "cdn snippet this plugin provide snippets for cdn link bootstrap font awesome",
-    "version": "1.0.0",
+    "description": "cdn snippet this plugin provide snippets for cdn links in your textEditor. ",
+    "version": "2.0.0",
     "publisher": "rushikeshmore",
     "repository": {
         "type": "git",
-        "url": "https://github.com/rushikeshmore/cdnsnippts"
+        "url": "https://github.com/rushikeshmore/cdnSnippets"
     },
     "icon": "icon.png",
     "engines": {
@@ -19,6 +19,10 @@
         "snippets": [
             {
                 "language": "html",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "javascript",
                 "path": "./snippets/snippets.json"
             }
         ]
